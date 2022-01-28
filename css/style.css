@@ -17,6 +17,7 @@ img {
   height: auto;
   vertical-align: bottom;
   border-style: none;
+  border: 1px solid #e6e6e6;
 }
 
 ul,
